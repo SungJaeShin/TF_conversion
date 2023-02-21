@@ -114,7 +114,7 @@ int main()
 
     // Write TF Pose
     std::ofstream tf_pose;
-    tf_pose.open("/home/sj/workspace/etri_ws/result/result/TF_VIO.tum");
+    tf_pose.open("~/TF_VIO.tum");
     for(int i = 0; i < first_pose.size(); i++)
     {
         std::string tmp_value = std::to_string(first_pose[i]);
