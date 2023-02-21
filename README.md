@@ -1,6 +1,6 @@
 # Convert Coordinate Local to Global frame !
 
-[Goal] In order to calculate RMSE, we must change coordinate from local to global !! 
+**[Goal] In order to calculate RMSE, we must change coordinate from local to global !!** 
 
 ## 1. Dependencies
 - OpenCV & Eigen
